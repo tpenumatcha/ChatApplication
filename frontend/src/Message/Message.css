@@ -1,0 +1,8 @@
+.Message {
+    border: 2px solid #dedede;
+    background-color: lightblue;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
