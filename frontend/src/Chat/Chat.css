@@ -1,0 +1,11 @@
+.Chatbox{
+    position: absolute;
+    left: 40%;
+    top: 35%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 2px solid #dedede;
+    border-radius: 5px;
+    background-color: bisque;
+    overflow: scroll;
+}
